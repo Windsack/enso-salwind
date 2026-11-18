@@ -35,7 +35,6 @@ be compared with the historical neutral reference. The accompanying note
 explains how to interpret the result for a single winter.
 
 The analysis plan and interpretation note were published in German on 17 November 2026 in release winter-plan-2026-27-v1. English translations were added on 18 November 2026.
-[release winter-plan-2026-27-v1](https://github.com/Windsack/enso-salwind/releases/tag/winter-plan-2026-27-v1).
 
 | Document | English translation | German original |
 |---|---|---|
